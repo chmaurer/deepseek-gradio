@@ -1,4 +1,6 @@
-# HOWTO Get Started
+# How to Get Started
+This is a guide on how to really run the DeepSeek-R1 model for your own. You have to have an account on the azure platform and deploy the model there. At the time of writing, this is possible at an inferencing cost of 0$. 
+
 ## Setup on Azure
 * In Azure AI Foundry, create an Azure AI Hub. Currently, only some us regions allow to publish the DeepSeek-R1 model.
 * Go to your AI Hub, create a new project.
